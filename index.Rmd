@@ -1,0 +1,142 @@
+---
+title: "CV"
+author: "Vishnu Parupati"
+date: "1 June 2016"
+output: html_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+Vishnu Vardhan Reddy Parupati							
+Taastrupgårdsvej 37, ST. TV
+2630 Taastrup, Denmark
+Mobile: +45 25 77 36 81
+E-mail: vishnu.parupati@gmail.com
+Linked In: https://dk.linkedin.com/in/vishnu-parupati-b40a68b4
+_________________________________________________________________________________________
+
+PROFESSIONAL PROFILE 
+An energetic and imaginative programmer with newly acquired skills, an insatiable intellectual curiosity, and the ability to mine hidden gems located within large sets of structured, semi-structured and unstructured data. I am an ambitious type who wants to get noticed, and has the drive and massive energy needed to really make a difference to a project. Right now, I am looking for an intern-ship position to learn more about technologies.  I am able to work with data visualization software as well. 
+
+RELEVANT COURSE WORK 
+2011 – Present			The Analytics Edge  (from MIT).				
+				Introduction to Python for Data Science (Microsoft).
+				Mastering Data Analysis in Excel (Duke University).
+				Data Visualization and Communication with Tableau (Duke University).
+				SAS Programming: Essentials (www.sas.com).
+				Introduction to ANOVA, Regression and Logistic Regression (www.sas.com).
+				The Data Scientist’s Toolbox (Johns Hopkins University).
+				R Programming (Johns Hopkins University).
+				Getting and Cleaning Data (Johns Hopkins University).
+				Exploratory Data Analysis  (Johns Hopkins University).
+				 Introduction to HTML, CSS and JavaScript Web Development(Microsoft).
+				The complete Web Developer Course  -  Build 14 Websites (Udemy).
+				
+KEY SKILLS
+
+HTML5
+CSS/SASS
+JavaScript
+jQuery
+SQL
+R
+Bootstrap
+APIs
+SAS
+MS-Office (Word, EXCEL etc.,)
+LibreOffice 
+AJAX
+Python
+Git
+Tableau
+WordPress
+PHP
+Teradata
+
+
+
+
+
+RESEARCH WORK EXPERIENCE
+
+11/2006-09/2007	Center of Excellence in Virus Research, Institute of Biotechnology, Viikki Biocenter, 			University of Helsinki, Finland.
+			Research project with Dr. Roman Tuma.
+			Project title: Single Molecule studies of viral packaging motors.
+			Studied Enzyme kinetics of Bacteriophage proteins like P4, P6 and etc.,
+
+09/2005-06/2006	Umea Center for Molecular pathogenesis, Umeå University, Sweden.
+			Research project conducted with Dr. Karina Persson.
+			Project title: Structural studies of FimA protein in Actinomyces naeslundii.
+			I studied the cloning, expression and purification of truncated form of FimA protein 			leading to crystallization experiments and auto polymerization analysis. It supports a 			general model for gram positive bacterial species for novel drug target molecules.
+
+01/2005-07/2005	Department of Molecular Biology, Umeå University, Sweden.
+			Master thesis research conducted with Prof. Victoria Shingler.
+			I studied the initial Localization and expression studies of signal transduction proteins 			that have been implicated in the processes from the analysis of metabolism-dependent 			taxis of Pseudomonas putida towards (methyl) phenols. 
+			
+LABORATORY SKILLS
+Have Strong background in molecular biology and biochemistry techniques.
+Protein purification and characterization.
+Calcium Chloride and Hanahan methods of transformation
+Mini, Midi and Maxi Plasmid preparations.
+Restriction digestion, Restriction mapping, Methylation and Ligation reactions using DNA.
+PCR, RFLP, SNP typing, Construction of recombinant plasmids for cloning purposes.
+Agarose Gel Electrophoresis.
+Gene expression analysis.
+Expression and Purification of Recombinant Proteins in E.coli.
+Affinity Chromatography for purifying recombinant proteins.
+Cleavage of fusion proteins.
+SDS-PAGE, Native PAGE.
+Chromatin Immunoprecipitation (ChIP)
+Coomassie and Silver Staining Techniques.
+Protein Assays.
+Western and Southern blotting.
+Enzchek Assays.
+Antibiotic Assays and etc.,
+
+PRODUCT SALES WORK EXPERIENCE
+04/2008 to 04/2009		DSS Imagetech PVT LTD, Hyderabad, India.
+				Worked as an Application Specialist – Life Science Division, it deals with low 				laboratory range of research chemicals to High throughput instruments 					(i.e., Dako, Digilab Genomic Solutions, Takara, Fluidigm, Nomadics, Edinburgh 				instruments, Nonlinear Dynamics software and etc.,)
+
+
+
+
+06/2003-08/2004		WIPRO BIOMED, Hyderabad, India.
+				Worked as a Product Specialist, it deals with research chemicals (Promega) to 				High throughput instruments like (Beckman coulter Centrifuges etc,). 
+
+EDUCATION
+
+2004-2006		MS, Molecular Biology, Umeå University, Umeå, Sweden.
+2001-2003		M. Sc, Biotechnology, Bangalore University, India.
+1998-2001		B. Sc, Industrial Microbiology and Chemistry, Kakatiya University, India.
+
+LANGUAGE SKILLS
+
+English:  Fluent in Reading, Speaking and Writing
+Danish:  Beginner
+Telugu: Native 
+
+HOBBIES 
+
+When I am trying to relax I enjoy reading, and have done this throughout my life; I find it helps develop my communications skills. I love cycling, it keeps me stay healthy. I enjoy variety of sports like Volleyball, Badminton etc.. I like to socialize with friends and family. Last but not least my daughter keeps me active all the time.
+
+
+PERSONAL SKILLS
+
+Handling criticism well and learning from it. 
+A keen approach to learning. 
+Working to short lead times.  
+Multi tasking.
+Presentation skills
+Demonstrated leadership skills
+Strong written and verbal communications skills
+Business skills like financial knowledge
+Good negotiation skills
+
+Organizational skills – planning/time management
+Relationship management
+Strong interpersonal skills
+Strong conceptual, analytical and decision making skills.
+Good exposure in EU region.
+Self initiative, Assertive, go-getter, Honest & Hard-working.
